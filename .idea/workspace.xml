@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e58e88b0-bd62-4903-a9c7-49c4d11b8219" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_picocontainer_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20e5aa98-c68b-4431-9949-6e564098e3af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/244cbca7-f8e3-4f8f-803b-65ff0a2b24ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/375e2217-d84c-460e-8be5-40ac597b7357-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89ef0633-6c24-41d4-8da7-cc85537be60d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5192ef5-f17d-43a1-ae17-5630155b359e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/basest/baseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mapsynq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tripadvisor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/08afbef5-8094-49b1-8029-9b4699256ca3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2cd5576c-4ac4-47b0-b3f8-0f799d9d28fd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/30e38320-78be-41a1-bc05-9a3814ec9df8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/33c6ed93-9c47-46fb-ab7b-3e9f414167a2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3f844509-a5ef-4cf5-829e-052a971a82a7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/52c9c5e3-f08d-4010-91d8-c182fcd2aeeb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/540e264f-9941-4c89-bd9d-8f35b9c8623e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5e7df0a7-5229-4d14-a3e4-61d8832d8e61-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5ec5867b-4085-4781-911f-bcde24c83398-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/64b454d1-6425-4ba4-bc87-3e74d7827f5e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6acfae96-f67b-4e19-ac2b-bba959c1be85-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/729766bf-da1f-4448-816a-ec11c0b158ce-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7616be68-ef4a-48d7-b8f4-2243be0bacd2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a94a548-5e20-4bfb-baa2-12eb5405a450-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7c657e6f-003b-42df-aab8-f62851c139e5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7e1f4de6-27cf-46e0-be15-5dbd8394564a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/84592bca-ea9f-4d26-bce6-a5415ea4e0d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/97271810-0b75-4600-a679-1acaa933cfcf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c279d903-8375-4bda-94a3-9127119e5c66-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c77535c5-5afb-4879-ac8d-ece09170affc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cbe63bba-9a57-4724-8621-5a90265ac95e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cd8a7e2c-be2f-4509-9c39-4952be12bdcc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d8597401-d188-4a4e-8fd8-417d2ec3a7c6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e8b10655-9a0c-4404-a9d8-cfbb22c54c9b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e9984a93-2965-4c74-82d1-0eb0c2629b30-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eac55517-7229-424a-9e60-7f2d0edeecaa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ec3c9f92-f979-4f0c-9d46-fc1639f5722a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/faa89fe0-a15b-4ce6-b4fb-c97cd60c6aa1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ffd44bf3-4add-40a7-b1d0-148f29c7297b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/basest/baseclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/basest/baseclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/helper/screenshot/getScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/helper/screenshot/getScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/pages/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/pages/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mapsynq/utility/utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mapsynq/utility/utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestCamera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/TestHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mapsynq/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mapsynq/runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Camera.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Homepage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Features/Homepage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/Tolls.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ThWWUekQ9ohbJeJNi9lybw5D4Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asit\IdeaProjects\QuantumInventionMapsynq\src\test" />
+      <recent name="D:\QuantumInvention\Mapsynq\src\test\resources\Features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Homepage">
+    <configuration default="true" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <odpsJavaType />
+      <odpsProjectName />
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Homepage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Homepage.feature" />
+      <option name="GLUE" value="com.mapsynq" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tripadvisor" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Homepage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Submit Five star to Club Mahindra Madikeri" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Homepage.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tripadvisor" />
+      <option name="NAME_FILTER" value="^Submit Five star to Club Mahindra Madikeri$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Submit Five star to Club Mahindra Madikeri$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Submit Five star to Club Mahindra Madikeri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify Applicaion Title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/Homepage.feature" />
+      <option name="GLUE" value="com.mapsynq" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Tripadvisor" />
+      <option name="NAME_FILTER" value="^Verify Applicaion Title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify Applicaion Title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Applicaion Title" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Homepage" />
+        <item itemvalue="Cucumber java.Scenario: Submit Five star to Club Mahindra Madikeri" />
+        <item itemvalue="Cucumber java.Scenario: Verify Applicaion Title" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e58e88b0-bd62-4903-a9c7-49c4d11b8219" name="Default Changelist" comment="" />
+      <created>1548060454269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548060454269</updated>
+    </task>
+    <task id="LOCAL-00001" summary="LOO">
+      <created>1573487773421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573487773421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new class">
+      <created>1573490920790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573490920790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change skip test =true">
+      <created>1573491818145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573491818145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="LOO" />
+    <MESSAGE value="Add new class" />
+    <MESSAGE value="change skip test =true" />
+    <option name="LAST_COMMIT_MESSAGE" value="change skip test =true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mapsynq/pages/Homepage.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mapsynq/pages/Homepage.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mapsynq/pages/Homepage.java</url>
+          <line>14</line>
+          <properties field="searchBox" class="com.mapsynq.pages.Homepage" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Mapsynq</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: backport-util-concurrent:backport-util-concurrent:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
